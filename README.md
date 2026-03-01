@@ -18,3 +18,4 @@ In the GitHub repository settings:
 For the `happydevsol-dot/offline-invoice` repository, the published privacy policy URL will be:
 
 - `https://happydevsol-dot.github.io/offline-invoice/privacy-policy.html`
+ 
